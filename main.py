@@ -1,6 +1,7 @@
 import requests
 import json
 import re
+import datetime
 
 
 # Function to fetch data from URL
@@ -11,7 +12,7 @@ def fetch_url(url):
 
 # Main execution
 if __name__ == "__main__":
-    year = 2026
+    year = datetime.datetime.now().year
     url = "http://10.10.206.205/data/api/nopolactive?year={}".format(year)
     data = fetch_url(url)
 
