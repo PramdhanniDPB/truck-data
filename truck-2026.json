@@ -185,6 +185,15 @@
         "trnp": "4 - SAKA LINTAS LOMBOK,P.T.",
         "tipe": "BAG",
         "trucktype": "Tronton",
+        "nomor_polisi": "DK8099UZ",
+        "trnp_code": "4"
+    },
+    {
+        "id": 1,
+        "loct": "BANYUWANGI BOSOWA",
+        "trnp": "4 - SAKA LINTAS LOMBOK,P.T.",
+        "tipe": "BAG",
+        "trucktype": "Tronton",
         "nomor_polisi": "DK8112WR",
         "trnp_code": "4"
     },
@@ -1202,6 +1211,15 @@
         "trnp": "OD - Winata Jaya Trans, PT",
         "tipe": "BAG",
         "trucktype": "Tronton",
+        "nomor_polisi": "N8168UT",
+        "trnp_code": "OD"
+    },
+    {
+        "id": 1,
+        "loct": "BANYUWANGI BOSOWA",
+        "trnp": "OD - Winata Jaya Trans, PT",
+        "tipe": "BAG",
+        "trucktype": "Tronton",
         "nomor_polisi": "N8208UT",
         "trnp_code": "OD"
     },
@@ -1293,6 +1311,15 @@
         "tipe": "BAG",
         "trucktype": "Tronton",
         "nomor_polisi": "N9317UV",
+        "trnp_code": "OD"
+    },
+    {
+        "id": 1,
+        "loct": "BANYUWANGI BOSOWA",
+        "trnp": "OD - Winata Jaya Trans, PT",
+        "tipe": "BAG",
+        "trucktype": "Tronton",
+        "nomor_polisi": "N9319UV",
         "trnp_code": "OD"
     },
     {
@@ -2688,6 +2715,15 @@
         "tipe": "BULK",
         "trucktype": "Trailer",
         "nomor_polisi": "N9985UC",
+        "trnp_code": "5"
+    },
+    {
+        "id": 1,
+        "loct": "BOSOWA MAROS",
+        "trnp": "5 - SURYA BUANA SENTOSA, P.T.",
+        "tipe": "BULK",
+        "trucktype": "Trailer",
+        "nomor_polisi": "N9986UC",
         "trnp_code": "5"
     },
     {
@@ -4379,6 +4415,15 @@
         "trnp": "N8 - Prima Langgeng Perkasa, PT. (Loco)",
         "tipe": "BAG",
         "trucktype": "Tronton",
+        "nomor_polisi": "DD8697UB",
+        "trnp_code": "N8"
+    },
+    {
+        "id": 1,
+        "loct": "BOSOWA MAROS",
+        "trnp": "N8 - Prima Langgeng Perkasa, PT. (Loco)",
+        "tipe": "BAG",
+        "trucktype": "Tronton",
         "nomor_polisi": "DD8813RK",
         "trnp_code": "N8"
     },
@@ -4695,6 +4740,15 @@
         "tipe": "BAG",
         "trucktype": "Engkel",
         "nomor_polisi": "DD8275YD",
+        "trnp_code": "OR"
+    },
+    {
+        "id": 1,
+        "loct": "BOSOWA MAROS",
+        "trnp": "OR - Barakah Niaga Semen, PT",
+        "tipe": "BAG",
+        "trucktype": "Engkel",
+        "nomor_polisi": "DD8297YG",
         "trnp_code": "OR"
     },
     {
@@ -5027,6 +5081,15 @@
         "trnp": "OR - Barakah Niaga Semen, PT",
         "tipe": "BAG",
         "trucktype": "Portal",
+        "nomor_polisi": "DP8895HD",
+        "trnp_code": "OR"
+    },
+    {
+        "id": 1,
+        "loct": "BOSOWA MAROS",
+        "trnp": "OR - Barakah Niaga Semen, PT",
+        "tipe": "BAG",
+        "trucktype": "Portal",
         "nomor_polisi": "DP8926HC",
         "trnp_code": "OR"
     },
@@ -5289,6 +5352,15 @@
         "tipe": "BAG",
         "trucktype": "Tronton",
         "nomor_polisi": "DD8036LF",
+        "trnp_code": "OR"
+    },
+    {
+        "id": 1,
+        "loct": "BOSOWA MAROS",
+        "trnp": "OR - Barakah Niaga Semen, PT",
+        "tipe": "BAG",
+        "trucktype": "Tronton",
+        "nomor_polisi": "DD8064EL",
         "trnp_code": "OR"
     },
     {
@@ -6026,6 +6098,15 @@
         "trnp": "OR - Barakah Niaga Semen, PT",
         "tipe": "BAG",
         "trucktype": "Tronton",
+        "nomor_polisi": "DP8247AL",
+        "trnp_code": "OR"
+    },
+    {
+        "id": 1,
+        "loct": "BOSOWA MAROS",
+        "trnp": "OR - Barakah Niaga Semen, PT",
+        "tipe": "BAG",
+        "trucktype": "Tronton",
         "nomor_polisi": "DP8273HF",
         "trnp_code": "OR"
     },
@@ -6215,6 +6296,15 @@
         "trnp": "OR - Barakah Niaga Semen, PT",
         "tipe": "BAG",
         "trucktype": "Tronton",
+        "nomor_polisi": "DP8600HB",
+        "trnp_code": "OR"
+    },
+    {
+        "id": 1,
+        "loct": "BOSOWA MAROS",
+        "trnp": "OR - Barakah Niaga Semen, PT",
+        "tipe": "BAG",
+        "trucktype": "Tronton",
         "nomor_polisi": "DP8600HD",
         "trnp_code": "OR"
     },
@@ -6288,6 +6378,15 @@
         "tipe": "BAG",
         "trucktype": "Tronton",
         "nomor_polisi": "DP8860AI",
+        "trnp_code": "OR"
+    },
+    {
+        "id": 1,
+        "loct": "BOSOWA MAROS",
+        "trnp": "OR - Barakah Niaga Semen, PT",
+        "tipe": "BAG",
+        "trucktype": "Tronton",
+        "nomor_polisi": "DP8901AK",
         "trnp_code": "OR"
     },
     {
@@ -7538,6 +7637,15 @@
         "trnp": "A - ANGGADA PERKASA, P.T.",
         "tipe": "BAG",
         "trucktype": "Portal",
+        "nomor_polisi": "F9124FE",
+        "trnp_code": "A"
+    },
+    {
+        "id": 1,
+        "loct": "Central Warehouse Citeureup",
+        "trnp": "A - ANGGADA PERKASA, P.T.",
+        "tipe": "BAG",
+        "trucktype": "Portal",
         "nomor_polisi": "F9136FE",
         "trnp_code": "A"
     },
@@ -7637,6 +7745,15 @@
         "trnp": "AD - ARMADA MAJU PERKASA, P.T.",
         "tipe": "BAG",
         "trucktype": "Portal",
+        "nomor_polisi": "B9319UVY",
+        "trnp_code": "AD"
+    },
+    {
+        "id": 1,
+        "loct": "Central Warehouse Citeureup",
+        "trnp": "AD - ARMADA MAJU PERKASA, P.T.",
+        "tipe": "BAG",
+        "trucktype": "Portal",
         "nomor_polisi": "B9321UVY",
         "trnp_code": "AD"
     },
@@ -7647,6 +7764,15 @@
         "tipe": "BAG",
         "trucktype": "Portal",
         "nomor_polisi": "B9332UVY",
+        "trnp_code": "AD"
+    },
+    {
+        "id": 1,
+        "loct": "Central Warehouse Citeureup",
+        "trnp": "AD - ARMADA MAJU PERKASA, P.T.",
+        "tipe": "BAG",
+        "trucktype": "Portal",
+        "nomor_polisi": "B9334UVY",
         "trnp_code": "AD"
     },
     {
@@ -7709,6 +7835,15 @@
         "trnp": "AD - ARMADA MAJU PERKASA, P.T.",
         "tipe": "BAG",
         "trucktype": "Portal",
+        "nomor_polisi": "B9894UYW",
+        "trnp_code": "AD"
+    },
+    {
+        "id": 1,
+        "loct": "Central Warehouse Citeureup",
+        "trnp": "AD - ARMADA MAJU PERKASA, P.T.",
+        "tipe": "BAG",
+        "trucktype": "Portal",
         "nomor_polisi": "B9941UYV",
         "trnp_code": "AD"
     },
@@ -7737,6 +7872,15 @@
         "tipe": "BAG",
         "trucktype": "Portal",
         "nomor_polisi": "H8035OA",
+        "trnp_code": "AK"
+    },
+    {
+        "id": 1,
+        "loct": "Central Warehouse Citeureup",
+        "trnp": "AK - UTAMA RADAR CAHAYA,PT",
+        "tipe": "BAG",
+        "trucktype": "Portal",
+        "nomor_polisi": "H8036OA",
         "trnp_code": "AK"
     },
     {
@@ -8191,6 +8335,15 @@
     },
     {
         "id": 1,
+        "loct": "Central Warehouse Citeureup",
+        "trnp": "S - MITRA BINA SERAYA, PT.",
+        "tipe": "BAG",
+        "trucktype": "Portal",
+        "nomor_polisi": "F9122FF",
+        "trnp_code": "S"
+    },
+    {
+        "id": 1,
         "loct": "CIMAREME WAREHOUSE",
         "trnp": "A - ANGGADA PERKASA, P.T.",
         "tipe": "BAG",
@@ -8322,6 +8475,15 @@
         "tipe": "BAG",
         "trucktype": "Portal",
         "nomor_polisi": "F9815FD",
+        "trnp_code": "A"
+    },
+    {
+        "id": 1,
+        "loct": "CIMAREME WAREHOUSE",
+        "trnp": "A - ANGGADA PERKASA, P.T.",
+        "tipe": "BAG",
+        "trucktype": "Portal",
+        "nomor_polisi": "F9830FD",
         "trnp_code": "A"
     },
     {
@@ -9681,6 +9843,15 @@
         "tipe": "BAG",
         "trucktype": "Trailer",
         "nomor_polisi": "G8764OD",
+        "trnp_code": "BB"
+    },
+    {
+        "id": 1,
+        "loct": "CIREBON",
+        "trnp": "BB - BUMI MANDIRI TRANSINDO, pT.",
+        "tipe": "BAG",
+        "trucktype": "Tronton",
+        "nomor_polisi": "G8406OD",
         "trnp_code": "BB"
     },
     {
@@ -11552,6 +11723,15 @@
         "trnp": "DY - Armada Bahtera Cakrawala Dunia, PT",
         "tipe": "BAG",
         "trucktype": "Portal",
+        "nomor_polisi": "H8863OF",
+        "trnp_code": "DY"
+    },
+    {
+        "id": 1,
+        "loct": "CIREBON",
+        "trnp": "DY - Armada Bahtera Cakrawala Dunia, PT",
+        "tipe": "BAG",
+        "trucktype": "Portal",
         "nomor_polisi": "H8891OF",
         "trnp_code": "DY"
     },
@@ -11562,6 +11742,15 @@
         "tipe": "BAG",
         "trucktype": "Portal",
         "nomor_polisi": "H8892OF",
+        "trnp_code": "DY"
+    },
+    {
+        "id": 1,
+        "loct": "CIREBON",
+        "trnp": "DY - Armada Bahtera Cakrawala Dunia, PT",
+        "tipe": "BAG",
+        "trucktype": "Portal",
+        "nomor_polisi": "H8903OF",
         "trnp_code": "DY"
     },
     {
@@ -11786,6 +11975,15 @@
         "trnp": "EN - Manggala Makmur Logistik, PT",
         "tipe": "BAG",
         "trucktype": "Gandeng",
+        "nomor_polisi": "G8308OD",
+        "trnp_code": "EN"
+    },
+    {
+        "id": 1,
+        "loct": "CIREBON",
+        "trnp": "EN - Manggala Makmur Logistik, PT",
+        "tipe": "BAG",
+        "trucktype": "Gandeng",
         "nomor_polisi": "G8309OD",
         "trnp_code": "EN"
     },
@@ -11949,6 +12147,15 @@
         "tipe": "BAG",
         "trucktype": "Trailer",
         "nomor_polisi": "G8428OD",
+        "trnp_code": "EN"
+    },
+    {
+        "id": 1,
+        "loct": "CIREBON",
+        "trnp": "EN - Manggala Makmur Logistik, PT",
+        "tipe": "BAG",
+        "trucktype": "Trailer",
+        "nomor_polisi": "G8431OD",
         "trnp_code": "EN"
     },
     {
@@ -12345,6 +12552,15 @@
         "tipe": "BAG",
         "trucktype": "Trailer",
         "nomor_polisi": "G8529OD",
+        "trnp_code": "EQ"
+    },
+    {
+        "id": 1,
+        "loct": "CIREBON",
+        "trnp": "EQ - Sambangi Panca Tama, PT",
+        "tipe": "BAG",
+        "trucktype": "Trailer",
+        "nomor_polisi": "G8530OD",
         "trnp_code": "EQ"
     },
     {
@@ -13595,6 +13811,15 @@
         "trnp": "QT - INTITRANS MAKMUR KENCANA, P.T.",
         "tipe": "BAG",
         "trucktype": "Tronton",
+        "nomor_polisi": "F9717F",
+        "trnp_code": "QT"
+    },
+    {
+        "id": 1,
+        "loct": "CIREBON",
+        "trnp": "QT - INTITRANS MAKMUR KENCANA, P.T.",
+        "tipe": "BAG",
+        "trucktype": "Tronton",
         "nomor_polisi": "F9718F",
         "trnp_code": "QT"
     },
@@ -13650,6 +13875,15 @@
         "tipe": "BAG",
         "trucktype": "Tronton",
         "nomor_polisi": "F9780FG",
+        "trnp_code": "QT"
+    },
+    {
+        "id": 1,
+        "loct": "CIREBON",
+        "trnp": "QT - INTITRANS MAKMUR KENCANA, P.T.",
+        "tipe": "BAG",
+        "trucktype": "Tronton",
+        "nomor_polisi": "F9795F",
         "trnp_code": "QT"
     },
     {
@@ -14576,6 +14810,15 @@
         "trnp": "> - TRIMANUNGGAL PRIMAPERKASA, P.T.",
         "tipe": "BAG",
         "trucktype": "Tronton",
+        "nomor_polisi": "B9714PYW",
+        "trnp_code": ">"
+    },
+    {
+        "id": 1,
+        "loct": "CIREBON",
+        "trnp": "> - TRIMANUNGGAL PRIMAPERKASA, P.T.",
+        "tipe": "BAG",
+        "trucktype": "Tronton",
         "nomor_polisi": "B9746SYP",
         "trnp_code": ">"
     },
@@ -14649,6 +14892,15 @@
         "tipe": "BAG",
         "trucktype": "Trailer",
         "nomor_polisi": "A9389TY",
+        "trnp_code": "TR"
+    },
+    {
+        "id": 1,
+        "loct": "CIREBON",
+        "trnp": "TR - TATA TRANSPORT, P.T.",
+        "tipe": "BAG",
+        "trucktype": "Trailer",
+        "nomor_polisi": "A9581TY",
         "trnp_code": "TR"
     },
     {
@@ -16013,33 +16265,6 @@
     {
         "id": 1,
         "loct": "CITEUREUP",
-        "trnp": "AD - ARMADA MAJU PERKASA, P.T.",
-        "tipe": "BAG",
-        "trucktype": "Portal",
-        "nomor_polisi": "B9319UVY",
-        "trnp_code": "AD"
-    },
-    {
-        "id": 1,
-        "loct": "CITEUREUP",
-        "trnp": "AD - ARMADA MAJU PERKASA, P.T.",
-        "tipe": "BAG",
-        "trucktype": "Portal",
-        "nomor_polisi": "B9334UVY",
-        "trnp_code": "AD"
-    },
-    {
-        "id": 1,
-        "loct": "CITEUREUP",
-        "trnp": "AD - ARMADA MAJU PERKASA, P.T.",
-        "tipe": "BAG",
-        "trucktype": "Portal",
-        "nomor_polisi": "B9894UYW",
-        "trnp_code": "AD"
-    },
-    {
-        "id": 1,
-        "loct": "CITEUREUP",
         "trnp": "AH - TRIMITRA PERDANA, PT",
         "tipe": "BULK",
         "trucktype": "25 Tons",
@@ -16305,6 +16530,15 @@
         "tipe": "BULK",
         "trucktype": "35 Tons",
         "nomor_polisi": "F9106FD",
+        "trnp_code": "AH"
+    },
+    {
+        "id": 1,
+        "loct": "CITEUREUP",
+        "trnp": "AH - TRIMITRA PERDANA, PT",
+        "tipe": "BULK",
+        "trucktype": "35 Tons",
+        "nomor_polisi": "F9218FD",
         "trnp_code": "AH"
     },
     {
@@ -16684,15 +16918,6 @@
         "trucktype": "Tronton",
         "nomor_polisi": "F9866FD",
         "trnp_code": "AH"
-    },
-    {
-        "id": 1,
-        "loct": "CITEUREUP",
-        "trnp": "AK - UTAMA RADAR CAHAYA,PT",
-        "tipe": "BAG",
-        "trucktype": "Portal",
-        "nomor_polisi": "H8036OA",
-        "trnp_code": "AK"
     },
     {
         "id": 1,
@@ -18150,15 +18375,6 @@
         "tipe": "BULK",
         "trucktype": "30 Tons",
         "nomor_polisi": "B9081BFA",
-        "trnp_code": "BQ"
-    },
-    {
-        "id": 1,
-        "loct": "CITEUREUP",
-        "trnp": "BQ - BANGUNPERKASA ADHITAMASENTRA, P.T.",
-        "tipe": "BULK",
-        "trucktype": "30 Tons",
-        "nomor_polisi": "B9082BFA",
         "trnp_code": "BQ"
     },
     {
@@ -20228,6 +20444,15 @@
         "trnp": "CF - TRANSINDO PERKASA PRIMA, PT",
         "tipe": "MATERIAL",
         "trucktype": "Tronton",
+        "nomor_polisi": "B9197PYY",
+        "trnp_code": "CF"
+    },
+    {
+        "id": 1,
+        "loct": "CITEUREUP",
+        "trnp": "CF - TRANSINDO PERKASA PRIMA, PT",
+        "tipe": "MATERIAL",
+        "trucktype": "Tronton",
         "nomor_polisi": "B9199PYY",
         "trnp_code": "CF"
     },
@@ -20264,6 +20489,15 @@
         "trnp": "CF - TRANSINDO PERKASA PRIMA, PT",
         "tipe": "MATERIAL",
         "trucktype": "Tronton",
+        "nomor_polisi": "B9206PYY",
+        "trnp_code": "CF"
+    },
+    {
+        "id": 1,
+        "loct": "CITEUREUP",
+        "trnp": "CF - TRANSINDO PERKASA PRIMA, PT",
+        "tipe": "MATERIAL",
+        "trucktype": "Tronton",
         "nomor_polisi": "B9207PYY",
         "trnp_code": "CF"
     },
@@ -20283,6 +20517,15 @@
         "tipe": "MATERIAL",
         "trucktype": "Tronton",
         "nomor_polisi": "B9244PYV",
+        "trnp_code": "CF"
+    },
+    {
+        "id": 1,
+        "loct": "CITEUREUP",
+        "trnp": "CF - TRANSINDO PERKASA PRIMA, PT",
+        "tipe": "MATERIAL",
+        "trucktype": "Tronton",
+        "nomor_polisi": "B9246PYV",
         "trnp_code": "CF"
     },
     {
@@ -20408,6 +20651,15 @@
         "trnp": "CF - TRANSINDO PERKASA PRIMA, PT",
         "tipe": "MATERIAL",
         "trucktype": "Tronton",
+        "nomor_polisi": "B9518PYX",
+        "trnp_code": "CF"
+    },
+    {
+        "id": 1,
+        "loct": "CITEUREUP",
+        "trnp": "CF - TRANSINDO PERKASA PRIMA, PT",
+        "tipe": "MATERIAL",
+        "trucktype": "Tronton",
         "nomor_polisi": "B9520PYX",
         "trnp_code": "CF"
     },
@@ -20463,6 +20715,15 @@
         "tipe": "MATERIAL",
         "trucktype": "Tronton",
         "nomor_polisi": "B9723PYW",
+        "trnp_code": "CF"
+    },
+    {
+        "id": 1,
+        "loct": "CITEUREUP",
+        "trnp": "CF - TRANSINDO PERKASA PRIMA, PT",
+        "tipe": "MATERIAL",
+        "trucktype": "Tronton",
+        "nomor_polisi": "B9724PYW",
         "trnp_code": "CF"
     },
     {
@@ -20922,6 +21183,15 @@
         "tipe": "MATERIAL",
         "trucktype": "Tronton",
         "nomor_polisi": "B9116KIU",
+        "trnp_code": "CI"
+    },
+    {
+        "id": 1,
+        "loct": "CITEUREUP",
+        "trnp": "CI - lintas harapan mandiri pT.",
+        "tipe": "MATERIAL",
+        "trucktype": "Tronton",
+        "nomor_polisi": "B9245KYV",
         "trnp_code": "CI"
     },
     {
@@ -21786,6 +22056,15 @@
         "tipe": "BULK",
         "trucktype": "35 Tons",
         "nomor_polisi": "K8638OB",
+        "trnp_code": "CM"
+    },
+    {
+        "id": 1,
+        "loct": "CITEUREUP",
+        "trnp": "CM - Merdeka Panji Mulia, PT.",
+        "tipe": "BULK",
+        "trucktype": "35 Tons",
+        "nomor_polisi": "K8640OB",
         "trnp_code": "CM"
     },
     {
@@ -24050,6 +24329,15 @@
     {
         "id": 1,
         "loct": "CITEUREUP",
+        "trnp": "DR - Sejahtera Khatulistiwa Perkasa, P.T.",
+        "tipe": "BAG",
+        "trucktype": "Tronton",
+        "nomor_polisi": "BG8044OF",
+        "trnp_code": "DR"
+    },
+    {
+        "id": 1,
+        "loct": "CITEUREUP",
         "trnp": "DV - Putra Transindo Dwi Perkasa, PT",
         "tipe": "BAG",
         "trucktype": "Portal",
@@ -25674,6 +25962,15 @@
         "tipe": "BULK",
         "trucktype": "35 Tons",
         "nomor_polisi": "F9126FF",
+        "trnp_code": "E"
+    },
+    {
+        "id": 1,
+        "loct": "CITEUREUP",
+        "trnp": "E - SUMBER KENCANA, C.V.",
+        "tipe": "BULK",
+        "trucktype": "Bulk CaCO3",
+        "nomor_polisi": "B9376BFU",
         "trnp_code": "E"
     },
     {
@@ -27346,6 +27643,15 @@
         "loct": "CITEUREUP",
         "trnp": "N - ANBANI ABADI",
         "tipe": "BAG",
+        "trucktype": "Trailer",
+        "nomor_polisi": "B9381PEH",
+        "trnp_code": "N"
+    },
+    {
+        "id": 1,
+        "loct": "CITEUREUP",
+        "trnp": "N - ANBANI ABADI",
+        "tipe": "BAG",
         "trucktype": "Tronton",
         "nomor_polisi": "B9252PYW",
         "trnp_code": "N"
@@ -27492,6 +27798,15 @@
         "tipe": "BAG",
         "trucktype": "Tronton",
         "nomor_polisi": "B9859PYV",
+        "trnp_code": "Q2"
+    },
+    {
+        "id": 1,
+        "loct": "CITEUREUP",
+        "trnp": "Q2 - MULTI PRIMA USAHATAMA, P.T.",
+        "tipe": "BAG",
+        "trucktype": "Tronton",
+        "nomor_polisi": "B9931PYV",
         "trnp_code": "Q2"
     },
     {
@@ -29558,6 +29873,15 @@
     {
         "id": 1,
         "loct": "CITEUREUP",
+        "trnp": "S4 - Makara Mulia, PT",
+        "tipe": "MATERIAL",
+        "trucktype": "Tronton",
+        "nomor_polisi": "F9343FB",
+        "trnp_code": "S4"
+    },
+    {
+        "id": 1,
+        "loct": "CITEUREUP",
         "trnp": "SS - SELARAS SEJAHTERA,P.T.",
         "tipe": "BAG",
         "trucktype": "Trailer",
@@ -31475,6 +31799,15 @@
     {
         "id": 1,
         "loct": "Grobogan Satelite Terminal",
+        "trnp": "5 - SURYA BUANA SENTOSA, P.T.",
+        "tipe": "MATERIAL",
+        "trucktype": "Tronton",
+        "nomor_polisi": "L9605UZ",
+        "trnp_code": "5"
+    },
+    {
+        "id": 1,
+        "loct": "Grobogan Satelite Terminal",
         "trnp": "A - ANGGADA PERKASA, P.T.",
         "tipe": "BAG",
         "trucktype": "Tronton",
@@ -31874,6 +32207,15 @@
         "trnp": "BY - ADIL JAYA, P.T.",
         "tipe": "BAG",
         "trucktype": "Trailer",
+        "nomor_polisi": "H8697OH",
+        "trnp_code": "BY"
+    },
+    {
+        "id": 1,
+        "loct": "Grobogan Satelite Terminal",
+        "trnp": "BY - ADIL JAYA, P.T.",
+        "tipe": "BAG",
+        "trucktype": "Trailer",
         "nomor_polisi": "H8699OH",
         "trnp_code": "BY"
     },
@@ -32073,6 +32415,15 @@
         "tipe": "BAG",
         "trucktype": "Tronton",
         "nomor_polisi": "H9252OA",
+        "trnp_code": "BY"
+    },
+    {
+        "id": 1,
+        "loct": "Grobogan Satelite Terminal",
+        "trnp": "BY - ADIL JAYA, P.T.",
+        "tipe": "BAG",
+        "trucktype": "Tronton",
+        "nomor_polisi": "H9259OF",
         "trnp_code": "BY"
     },
     {
@@ -32496,6 +32847,15 @@
         "tipe": "MATERIAL",
         "trucktype": "Tronton",
         "nomor_polisi": "B9794PYT",
+        "trnp_code": "CF"
+    },
+    {
+        "id": 1,
+        "loct": "Grobogan Satelite Terminal",
+        "trnp": "CF - TRANSINDO PERKASA PRIMA, PT",
+        "tipe": "MATERIAL",
+        "trucktype": "Tronton",
+        "nomor_polisi": "B9795PYT",
         "trnp_code": "CF"
     },
     {
@@ -33367,6 +33727,15 @@
         "loct": "Grobogan Satelite Terminal",
         "trnp": "EN - Manggala Makmur Logistik, PT",
         "tipe": "BAG",
+        "trucktype": "Gandeng",
+        "nomor_polisi": "G8318OD",
+        "trnp_code": "EN"
+    },
+    {
+        "id": 1,
+        "loct": "Grobogan Satelite Terminal",
+        "trnp": "EN - Manggala Makmur Logistik, PT",
+        "tipe": "BAG",
         "trucktype": "Trailer",
         "nomor_polisi": "G8186OD",
         "trnp_code": "EN"
@@ -33476,6 +33845,15 @@
         "trnp": "EN - Manggala Makmur Logistik, PT",
         "tipe": "BAG",
         "trucktype": "Trailer",
+        "nomor_polisi": "G8664OD",
+        "trnp_code": "EN"
+    },
+    {
+        "id": 1,
+        "loct": "Grobogan Satelite Terminal",
+        "trnp": "EN - Manggala Makmur Logistik, PT",
+        "tipe": "BAG",
+        "trucktype": "Trailer",
         "nomor_polisi": "G8667OD",
         "trnp_code": "EN"
     },
@@ -33540,6 +33918,15 @@
         "tipe": "BAG",
         "trucktype": "Trailer",
         "nomor_polisi": "G8724OD",
+        "trnp_code": "EN"
+    },
+    {
+        "id": 1,
+        "loct": "Grobogan Satelite Terminal",
+        "trnp": "EN - Manggala Makmur Logistik, PT",
+        "tipe": "BAG",
+        "trucktype": "Trailer",
+        "nomor_polisi": "G8768OD",
         "trnp_code": "EN"
     },
     {
@@ -33728,6 +34115,15 @@
         "trnp": "EN - Manggala Makmur Logistik, PT",
         "tipe": "BULK",
         "trucktype": "35 Tons",
+        "nomor_polisi": "G8425OD",
+        "trnp_code": "EN"
+    },
+    {
+        "id": 1,
+        "loct": "Grobogan Satelite Terminal",
+        "trnp": "EN - Manggala Makmur Logistik, PT",
+        "tipe": "BULK",
+        "trucktype": "35 Tons",
         "nomor_polisi": "G8491OD",
         "trnp_code": "EN"
     },
@@ -33836,7 +34232,7 @@
         "trnp": "EQ - Sambangi Panca Tama, PT",
         "tipe": "BAG",
         "trucktype": "Trailer",
-        "nomor_polisi": "G8530OD",
+        "nomor_polisi": "G8525OD",
         "trnp_code": "EQ"
     },
     {
@@ -34071,6 +34467,15 @@
         "tipe": "BAG",
         "trucktype": "Trailer",
         "nomor_polisi": "L8479UO",
+        "trnp_code": "LJ"
+    },
+    {
+        "id": 1,
+        "loct": "Grobogan Satelite Terminal",
+        "trnp": "LJ - LINTAS JAWAMAS UTAMA, P.T.",
+        "tipe": "BAG",
+        "trucktype": "Trailer",
+        "nomor_polisi": "T9335DD",
         "trnp_code": "LJ"
     },
     {
@@ -34448,6 +34853,33 @@
         "trnp": "LJ - LINTAS JAWAMAS UTAMA, P.T.",
         "tipe": "MATERIAL",
         "trucktype": "Tronton",
+        "nomor_polisi": "AG9452UW",
+        "trnp_code": "LJ"
+    },
+    {
+        "id": 1,
+        "loct": "Grobogan Satelite Terminal",
+        "trnp": "LJ - LINTAS JAWAMAS UTAMA, P.T.",
+        "tipe": "MATERIAL",
+        "trucktype": "Tronton",
+        "nomor_polisi": "B9005BYW",
+        "trnp_code": "LJ"
+    },
+    {
+        "id": 1,
+        "loct": "Grobogan Satelite Terminal",
+        "trnp": "LJ - LINTAS JAWAMAS UTAMA, P.T.",
+        "tipe": "MATERIAL",
+        "trucktype": "Tronton",
+        "nomor_polisi": "B9242UZ",
+        "trnp_code": "LJ"
+    },
+    {
+        "id": 1,
+        "loct": "Grobogan Satelite Terminal",
+        "trnp": "LJ - LINTAS JAWAMAS UTAMA, P.T.",
+        "tipe": "MATERIAL",
+        "trucktype": "Tronton",
         "nomor_polisi": "B9488UYV",
         "trnp_code": "LJ"
     },
@@ -34574,6 +35006,15 @@
         "trnp": "LJ - LINTAS JAWAMAS UTAMA, P.T.",
         "tipe": "MATERIAL",
         "trucktype": "Tronton",
+        "nomor_polisi": "S8197UT",
+        "trnp_code": "LJ"
+    },
+    {
+        "id": 1,
+        "loct": "Grobogan Satelite Terminal",
+        "trnp": "LJ - LINTAS JAWAMAS UTAMA, P.T.",
+        "tipe": "MATERIAL",
+        "trucktype": "Tronton",
         "nomor_polisi": "S8204UT",
         "trnp_code": "LJ"
     },
@@ -34610,7 +35051,43 @@
         "trnp": "LJ - LINTAS JAWAMAS UTAMA, P.T.",
         "tipe": "MATERIAL",
         "trucktype": "Tronton",
+        "nomor_polisi": "S9379UT",
+        "trnp_code": "LJ"
+    },
+    {
+        "id": 1,
+        "loct": "Grobogan Satelite Terminal",
+        "trnp": "LJ - LINTAS JAWAMAS UTAMA, P.T.",
+        "tipe": "MATERIAL",
+        "trucktype": "Tronton",
+        "nomor_polisi": "S9458UT",
+        "trnp_code": "LJ"
+    },
+    {
+        "id": 1,
+        "loct": "Grobogan Satelite Terminal",
+        "trnp": "LJ - LINTAS JAWAMAS UTAMA, P.T.",
+        "tipe": "MATERIAL",
+        "trucktype": "Tronton",
         "nomor_polisi": "T9377DF",
+        "trnp_code": "LJ"
+    },
+    {
+        "id": 1,
+        "loct": "Grobogan Satelite Terminal",
+        "trnp": "LJ - LINTAS JAWAMAS UTAMA, P.T.",
+        "tipe": "MATERIAL",
+        "trucktype": "Tronton",
+        "nomor_polisi": "T9623DD",
+        "trnp_code": "LJ"
+    },
+    {
+        "id": 1,
+        "loct": "Grobogan Satelite Terminal",
+        "trnp": "LJ - LINTAS JAWAMAS UTAMA, P.T.",
+        "tipe": "MATERIAL",
+        "trucktype": "Tronton",
+        "nomor_polisi": "T9815DB",
         "trnp_code": "LJ"
     },
     {
@@ -34621,6 +35098,15 @@
         "trucktype": "35 Tons",
         "nomor_polisi": "B9926SFV",
         "trnp_code": "MF"
+    },
+    {
+        "id": 1,
+        "loct": "Grobogan Satelite Terminal",
+        "trnp": "QT - INTITRANS MAKMUR KENCANA, P.T.",
+        "tipe": "BAG",
+        "trucktype": "Trailer",
+        "nomor_polisi": "F9264FE",
+        "trnp_code": "QT"
     },
     {
         "id": 1,
@@ -34835,6 +35321,15 @@
         "trnp": "QT - INTITRANS MAKMUR KENCANA, P.T.",
         "tipe": "BAG",
         "trucktype": "Tronton",
+        "nomor_polisi": "F9767FG",
+        "trnp_code": "QT"
+    },
+    {
+        "id": 1,
+        "loct": "Grobogan Satelite Terminal",
+        "trnp": "QT - INTITRANS MAKMUR KENCANA, P.T.",
+        "tipe": "BAG",
+        "trucktype": "Tronton",
         "nomor_polisi": "F9769FB",
         "trnp_code": "QT"
     },
@@ -34890,6 +35385,15 @@
         "tipe": "BAG",
         "trucktype": "Trailer",
         "nomor_polisi": "G8293OD",
+        "trnp_code": "RJ"
+    },
+    {
+        "id": 1,
+        "loct": "Grobogan Satelite Terminal",
+        "trnp": "RJ - RUDY JAYA, C.V.",
+        "tipe": "BAG",
+        "trucktype": "Trailer",
+        "nomor_polisi": "G8295OD",
         "trnp_code": "RJ"
     },
     {
@@ -35168,6 +35672,15 @@
         "trnp": "RJ - RUDY JAYA, C.V.",
         "tipe": "BULK",
         "trucktype": "30 Tons",
+        "nomor_polisi": "G8916OD",
+        "trnp_code": "RJ"
+    },
+    {
+        "id": 1,
+        "loct": "Grobogan Satelite Terminal",
+        "trnp": "RJ - RUDY JAYA, C.V.",
+        "tipe": "BULK",
+        "trucktype": "30 Tons",
         "nomor_polisi": "G8917OD",
         "trnp_code": "RJ"
     },
@@ -35223,6 +35736,15 @@
         "tipe": "BAG",
         "trucktype": "Trailer",
         "nomor_polisi": "Z9747MG",
+        "trnp_code": "TJ"
+    },
+    {
+        "id": 1,
+        "loct": "Grobogan Satelite Terminal",
+        "trnp": "TJ - TIARA FAJAR TRANSPORTINDO, P.T",
+        "tipe": "BAG",
+        "trucktype": "Trailer",
+        "nomor_polisi": "Z9749MG",
         "trnp_code": "TJ"
     },
     {
@@ -35354,15 +35876,6 @@
     {
         "id": 1,
         "loct": "Grobogan Satelite Terminal",
-        "trnp": "TR - TATA TRANSPORT, P.T.",
-        "tipe": "BAG",
-        "trucktype": "Trailer",
-        "nomor_polisi": "A9581TY",
-        "trnp_code": "TR"
-    },
-    {
-        "id": 1,
-        "loct": "Grobogan Satelite Terminal",
         "trnp": "X - SARANA INTI TRANSINDO PERKASA, P.T.",
         "tipe": "BAG",
         "trucktype": "Trailer",
@@ -35483,6 +35996,15 @@
         "trnp": "X - SARANA INTI TRANSINDO PERKASA, P.T.",
         "tipe": "BAG",
         "trucktype": "Tronton",
+        "nomor_polisi": "L8486UL",
+        "trnp_code": "X"
+    },
+    {
+        "id": 1,
+        "loct": "Grobogan Satelite Terminal",
+        "trnp": "X - SARANA INTI TRANSINDO PERKASA, P.T.",
+        "tipe": "BAG",
+        "trucktype": "Tronton",
         "nomor_polisi": "L8488UL",
         "trnp_code": "X"
     },
@@ -35574,6 +36096,15 @@
         "tipe": "BAG",
         "trucktype": "Tronton",
         "nomor_polisi": "N8907UP",
+        "trnp_code": "X"
+    },
+    {
+        "id": 1,
+        "loct": "Grobogan Satelite Terminal",
+        "trnp": "X - SARANA INTI TRANSINDO PERKASA, P.T.",
+        "tipe": "BAG",
+        "trucktype": "Tronton",
+        "nomor_polisi": "N8951UP",
         "trnp_code": "X"
     },
     {
@@ -36185,6 +36716,15 @@
         "trnp": "QT - INTITRANS MAKMUR KENCANA, P.T.",
         "tipe": "BAG",
         "trucktype": "Portal",
+        "nomor_polisi": "F9521FE",
+        "trnp_code": "QT"
+    },
+    {
+        "id": 1,
+        "loct": "Jatiwangi Warehouse",
+        "trnp": "QT - INTITRANS MAKMUR KENCANA, P.T.",
+        "tipe": "BAG",
+        "trucktype": "Portal",
         "nomor_polisi": "F9526FE",
         "trnp_code": "QT"
     },
@@ -36231,6 +36771,15 @@
         "tipe": "BAG",
         "trucktype": "Portal",
         "nomor_polisi": "F9702F",
+        "trnp_code": "QT"
+    },
+    {
+        "id": 1,
+        "loct": "Jatiwangi Warehouse",
+        "trnp": "QT - INTITRANS MAKMUR KENCANA, P.T.",
+        "tipe": "BAG",
+        "trucktype": "Portal",
+        "nomor_polisi": "F9712FB",
         "trnp_code": "QT"
     },
     {
@@ -37480,6 +38029,15 @@
         "loct": "Lampung Terminal",
         "trnp": "DR - Sejahtera Khatulistiwa Perkasa, P.T.",
         "tipe": "BAG",
+        "trucktype": "Portal",
+        "nomor_polisi": "BE9089CW",
+        "trnp_code": "DR"
+    },
+    {
+        "id": 1,
+        "loct": "Lampung Terminal",
+        "trnp": "DR - Sejahtera Khatulistiwa Perkasa, P.T.",
+        "tipe": "BAG",
         "trucktype": "Trailer",
         "nomor_polisi": "B9282TEJ",
         "trnp_code": "DR"
@@ -37815,6 +38373,15 @@
         "tipe": "BAG",
         "trucktype": "Tronton",
         "nomor_polisi": "P8087UF",
+        "trnp_code": "W"
+    },
+    {
+        "id": 1,
+        "loct": "Lampung Terminal",
+        "trnp": "W - BANGUNSUKSES NIAGATAMA NUSANTARA, P.T.",
+        "tipe": "BULK",
+        "trucktype": "35 Tons",
+        "nomor_polisi": "BE8221FUA",
         "trnp_code": "W"
     },
     {
@@ -38770,6 +39337,15 @@
         "trucktype": "Tronton",
         "nomor_polisi": "W8039XZ",
         "trnp_code": "OR"
+    },
+    {
+        "id": 1,
+        "loct": "Marunda Terminal",
+        "trnp": "9 - V ES S E L",
+        "tipe": "BULK",
+        "trucktype": null,
+        "nomor_polisi": "GST1-GESIT,MV.",
+        "trnp_code": "9"
     },
     {
         "id": 1,
@@ -39794,6 +40370,15 @@
         "trnp": "DR - Sejahtera Khatulistiwa Perkasa, P.T.",
         "tipe": "BAG",
         "trucktype": "Engkel",
+        "nomor_polisi": "BG8133IC",
+        "trnp_code": "DR"
+    },
+    {
+        "id": 1,
+        "loct": "Palembang Terminal",
+        "trnp": "DR - Sejahtera Khatulistiwa Perkasa, P.T.",
+        "tipe": "BAG",
+        "trucktype": "Engkel",
         "nomor_polisi": "BG8170IC",
         "trnp_code": "DR"
     },
@@ -40298,7 +40883,7 @@
         "trnp": "DR - Sejahtera Khatulistiwa Perkasa, P.T.",
         "tipe": "BAG",
         "trucktype": "Tronton",
-        "nomor_polisi": "BG8044OF",
+        "nomor_polisi": "BG8075NL",
         "trnp_code": "DR"
     },
     {
@@ -40307,7 +40892,7 @@
         "trnp": "DR - Sejahtera Khatulistiwa Perkasa, P.T.",
         "tipe": "BAG",
         "trucktype": "Tronton",
-        "nomor_polisi": "BG8075NL",
+        "nomor_polisi": "BG8081MX",
         "trnp_code": "DR"
     },
     {
@@ -40335,6 +40920,15 @@
         "tipe": "BAG",
         "trucktype": "Tronton",
         "nomor_polisi": "BG8232NS",
+        "trnp_code": "DR"
+    },
+    {
+        "id": 1,
+        "loct": "Palembang Terminal",
+        "trnp": "DR - Sejahtera Khatulistiwa Perkasa, P.T.",
+        "tipe": "BAG",
+        "trucktype": "Tronton",
+        "nomor_polisi": "BG8313NQ",
         "trnp_code": "DR"
     },
     {
@@ -41639,6 +42233,15 @@
         "trnp": "4 - SAKA LINTAS LOMBOK,P.T.",
         "tipe": "BAG",
         "trucktype": "Engkel",
+        "nomor_polisi": "KT8993RU",
+        "trnp_code": "4"
+    },
+    {
+        "id": 1,
+        "loct": "Samarinda II Terminal",
+        "trnp": "4 - SAKA LINTAS LOMBOK,P.T.",
+        "tipe": "BAG",
+        "trucktype": "Engkel",
         "nomor_polisi": "L8224CAA",
         "trnp_code": "4"
     },
@@ -42387,6 +42990,15 @@
         "tipe": "BULK",
         "trucktype": "30 Tons",
         "nomor_polisi": "BE8853ABU",
+        "trnp_code": "CQ"
+    },
+    {
+        "id": 1,
+        "loct": "Samarinda II Terminal",
+        "trnp": "CQ - MPX Logistics International, PT",
+        "tipe": "BULK",
+        "trucktype": "35 Tons",
+        "nomor_polisi": "BE8336ACU",
         "trnp_code": "CQ"
     },
     {
@@ -43178,6 +43790,15 @@
         "trnp": "9 - V ES S E L",
         "tipe": "BAG",
         "trucktype": null,
+        "nomor_polisi": "M335-KM.MAB01",
+        "trnp_code": "9"
+    },
+    {
+        "id": 1,
+        "loct": "Siawung Terminal",
+        "trnp": "9 - V ES S E L",
+        "tipe": "BAG",
+        "trucktype": null,
         "nomor_polisi": "S574-KM.SEGARAANAK1",
         "trnp_code": "9"
     },
@@ -43386,6 +44007,15 @@
         "tipe": "BAG",
         "trucktype": "Portal",
         "nomor_polisi": "F9151FE",
+        "trnp_code": "A"
+    },
+    {
+        "id": 1,
+        "loct": "SUKABUMI WAREHOUSE",
+        "trnp": "A - ANGGADA PERKASA, P.T.",
+        "tipe": "BAG",
+        "trucktype": "Portal",
+        "nomor_polisi": "F9363FM",
         "trnp_code": "A"
     },
     {
@@ -43763,6 +44393,15 @@
         "trnp": "9 - V ES S E L",
         "tipe": "BAG",
         "trucktype": null,
+        "nomor_polisi": "XO87-MV.EVERBALMY",
+        "trnp_code": "9"
+    },
+    {
+        "id": 1,
+        "loct": "TANJUNG PRIOK",
+        "trnp": "9 - V ES S E L",
+        "tipe": "BAG",
+        "trucktype": null,
         "nomor_polisi": "XP43-MV.EVERBOOMY",
         "trnp_code": "9"
     },
@@ -43817,15 +44456,6 @@
         "trnp": "9 - V ES S E L",
         "tipe": "BULK",
         "trucktype": null,
-        "nomor_polisi": "GST1-GESIT,MV.",
-        "trnp_code": "9"
-    },
-    {
-        "id": 1,
-        "loct": "TANJUNG PRIOK",
-        "trnp": "9 - V ES S E L",
-        "tipe": "BULK",
-        "trucktype": null,
         "nomor_polisi": "HOM1-HOMANZAN,MV.",
         "trnp_code": "9"
     },
@@ -43845,6 +44475,15 @@
         "tipe": "BULK",
         "trucktype": null,
         "nomor_polisi": "PER1-PERKASA,MV.",
+        "trnp_code": "9"
+    },
+    {
+        "id": 1,
+        "loct": "Tanjung Priok Port Warehouse",
+        "trnp": "9 - V ES S E L",
+        "tipe": "BAG",
+        "trucktype": null,
+        "nomor_polisi": "E021-KM.ESTUARIMAS",
         "trnp_code": "9"
     },
     {
@@ -43889,6 +44528,15 @@
         "trnp": "9 - V ES S E L",
         "tipe": "BAG",
         "trucktype": null,
+        "nomor_polisi": "M215-MAREMASKM",
+        "trnp_code": "9"
+    },
+    {
+        "id": 1,
+        "loct": "Tanjung Priok Port Warehouse",
+        "trnp": "9 - V ES S E L",
+        "tipe": "BAG",
+        "trucktype": null,
         "nomor_polisi": "M304-KM.MERATUSAMURANG",
         "trnp_code": "9"
     },
@@ -43899,6 +44547,15 @@
         "tipe": "BAG",
         "trucktype": null,
         "nomor_polisi": "M309-KM.MERATUSAMPANA",
+        "trnp_code": "9"
+    },
+    {
+        "id": 1,
+        "loct": "Tanjung Priok Port Warehouse",
+        "trnp": "9 - V ES S E L",
+        "tipe": "BAG",
+        "trucktype": null,
+        "nomor_polisi": "M338-KM.MERATUSKOLAKA",
         "trnp_code": "9"
     },
     {
@@ -44241,6 +44898,15 @@
         "tipe": "BAG",
         "trucktype": null,
         "nomor_polisi": "B298",
+        "trnp_code": "9"
+    },
+    {
+        "id": 1,
+        "loct": "TARJUN",
+        "trnp": "9 - V ES S E L",
+        "tipe": "BAG",
+        "trucktype": null,
+        "nomor_polisi": "B342",
         "trnp_code": "9"
     },
     {
@@ -44727,6 +45393,15 @@
         "tipe": "BAG",
         "trucktype": "Portal",
         "nomor_polisi": "KT8109MD",
+        "trnp_code": "DR"
+    },
+    {
+        "id": 1,
+        "loct": "TARJUN",
+        "trnp": "DR - Sejahtera Khatulistiwa Perkasa, P.T.",
+        "tipe": "BAG",
+        "trucktype": "Portal",
+        "nomor_polisi": "KT8135UM",
         "trnp_code": "DR"
     },
     {
@@ -46409,6 +47084,15 @@
         "trnp": "4 - SAKA LINTAS LOMBOK,P.T.",
         "tipe": "BAG",
         "trucktype": "Tronton",
+        "nomor_polisi": "DH8191EF",
+        "trnp_code": "4"
+    },
+    {
+        "id": 1,
+        "loct": "Terminal Kupang",
+        "trnp": "4 - SAKA LINTAS LOMBOK,P.T.",
+        "tipe": "BAG",
+        "trucktype": "Tronton",
         "nomor_polisi": "DH8344JB",
         "trnp_code": "4"
     },
@@ -46591,5 +47275,14 @@
         "trucktype": "Tronton",
         "nomor_polisi": "W9075UJ",
         "trnp_code": "MN"
+    },
+    {
+        "id": 1,
+        "loct": "Terminal Kupang",
+        "trnp": "Q - SELF TRANSPORTATION",
+        "tipe": "BAG",
+        "trucktype": "Tronton",
+        "nomor_polisi": "S4MPL",
+        "trnp_code": "Q"
     }
 ]
