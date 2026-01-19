@@ -1,3 +1,7 @@
 output.json
 output2025.json
 env/
+main.go
+go.mod
+go.sum
+truckData_2026.xlsx
