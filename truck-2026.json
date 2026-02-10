@@ -17294,6 +17294,15 @@
         "trnp": "5 - SURYA BUANA SENTOSA, P.T.",
         "tipe": "BULK",
         "trucktype": "Trailer",
+        "nomor_polisi": "F9230FL",
+        "trnp_code": "5"
+    },
+    {
+        "id": 1,
+        "loct": "CITEUREUP",
+        "trnp": "5 - SURYA BUANA SENTOSA, P.T.",
+        "tipe": "BULK",
+        "trucktype": "Trailer",
         "nomor_polisi": "F9231FL",
         "trnp_code": "5"
     },
@@ -31253,6 +31262,15 @@
         "trnp": "N7 - Moto Mandiri Indonesia, PT.",
         "tipe": "MATERIAL",
         "trucktype": "Tronton",
+        "nomor_polisi": "B9916KYZ",
+        "trnp_code": "N7"
+    },
+    {
+        "id": 1,
+        "loct": "CITEUREUP",
+        "trnp": "N7 - Moto Mandiri Indonesia, PT.",
+        "tipe": "MATERIAL",
+        "trucktype": "Tronton",
         "nomor_polisi": "B9918KYZ",
         "trnp_code": "N7"
     },
@@ -34980,6 +34998,15 @@
         "tipe": "BAG",
         "trucktype": "Tronton",
         "nomor_polisi": "Z9379MM",
+        "trnp_code": "TJ"
+    },
+    {
+        "id": 1,
+        "loct": "CITEUREUP",
+        "trnp": "TJ - TIARA FAJAR TRANSPORTINDO, P.T",
+        "tipe": "BAG",
+        "trucktype": "Tronton",
+        "nomor_polisi": "Z9398MN",
         "trnp_code": "TJ"
     },
     {
@@ -44659,6 +44686,15 @@
     },
     {
         "id": 1,
+        "loct": "Makassar Port",
+        "trnp": "9 - V ES S E L",
+        "tipe": "BAG",
+        "trucktype": null,
+        "nomor_polisi": "P199-KM.PERMATAPUTRA",
+        "trnp_code": "9"
+    },
+    {
+        "id": 1,
         "loct": "Marunda Port Warehouse",
         "trnp": "9 - V ES S E L",
         "tipe": "BAG",
@@ -48164,6 +48200,15 @@
         "trnp": "4 - SAKA LINTAS LOMBOK,P.T.",
         "tipe": "BAG",
         "trucktype": "Portal",
+        "nomor_polisi": "KT8815NR",
+        "trnp_code": "4"
+    },
+    {
+        "id": 1,
+        "loct": "Samarinda II Terminal",
+        "trnp": "4 - SAKA LINTAS LOMBOK,P.T.",
+        "tipe": "BAG",
+        "trucktype": "Portal",
         "nomor_polisi": "KT8817MT",
         "trnp_code": "4"
     },
@@ -50029,6 +50074,15 @@
         "trucktype": "Portal",
         "nomor_polisi": "B9995UYW",
         "trnp_code": "AD"
+    },
+    {
+        "id": 1,
+        "loct": "SUNDA KELAPA WAREHOUSE",
+        "trnp": "BE - EKATRANSPORT. P.T.",
+        "tipe": "BAG",
+        "trucktype": "Tronton",
+        "nomor_polisi": "F9601FC",
+        "trnp_code": "BE"
     },
     {
         "id": 1,
