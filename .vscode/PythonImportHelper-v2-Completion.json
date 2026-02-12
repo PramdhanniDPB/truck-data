@@ -1,0 +1,47 @@
+[
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_url",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def fetch_url(url):\n    response = requests.get(url)\n    response.raise_for_status()  # Raise an error for bad responses\n    return response.json()\n# Main execution\nif __name__ == \"__main__\":\n    year = 2026\n    url = \"http://10.10.206.205/api_truck.php?year={}\".format(year)\n    data = fetch_url(url)\n    # Process data",
+        "detail": "main",
+        "documentation": {}
+    }
+]
