@@ -40286,6 +40286,15 @@
     {
         "id": 1,
         "loct": "Grobogan Satelite Terminal",
+        "trnp": "Q - SELF TRANSPORTATION",
+        "tipe": "BULK",
+        "trucktype": "35 Tons",
+        "nomor_polisi": "S4MPL",
+        "trnp_code": "Q"
+    },
+    {
+        "id": 1,
+        "loct": "Grobogan Satelite Terminal",
         "trnp": "QT - INTITRANS MAKMUR KENCANA, P.T.",
         "tipe": "BAG",
         "trucktype": "Trailer",
@@ -42433,15 +42442,6 @@
         "trucktype": "35 Tons",
         "nomor_polisi": "B9996BFU",
         "trnp_code": "QG"
-    },
-    {
-        "id": 1,
-        "loct": "Kuala Tanjung Terminal",
-        "trnp": "Q - SELF TRANSPORTATION",
-        "tipe": "BULK",
-        "trucktype": "35 Tons",
-        "nomor_polisi": "S4MPL",
-        "trnp_code": "Q"
     },
     {
         "id": 1,
