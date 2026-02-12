@@ -1598,6 +1598,15 @@
         "trnp": "OD - Winata Jaya Trans, PT",
         "tipe": "BAG",
         "trucktype": "Tronton",
+        "nomor_polisi": "N9843UV",
+        "trnp_code": "OD"
+    },
+    {
+        "id": 1,
+        "loct": "BANYUWANGI BOSOWA",
+        "trnp": "OD - Winata Jaya Trans, PT",
+        "tipe": "BAG",
+        "trucktype": "Tronton",
         "nomor_polisi": "N9892UV",
         "trnp_code": "OD"
     },
@@ -44795,6 +44804,15 @@
     {
         "id": 1,
         "loct": "Makasar Terminal",
+        "trnp": "9 - V ES S E L",
+        "tipe": "BULK",
+        "trucktype": null,
+        "nomor_polisi": "RYO1-RYOKO8,MV.",
+        "trnp_code": "9"
+    },
+    {
+        "id": 1,
+        "loct": "Makasar Terminal",
         "trnp": "N1 - Duta Elang Anugerah, PT",
         "tipe": "BAG",
         "trucktype": "Tronton",
@@ -44844,6 +44862,15 @@
         "tipe": "BAG",
         "trucktype": null,
         "nomor_polisi": "K842-KM.SAHABATSENTOSA",
+        "trnp_code": "9"
+    },
+    {
+        "id": 1,
+        "loct": "Marunda Terminal",
+        "trnp": "9 - V ES S E L",
+        "tipe": "BULK",
+        "trucktype": null,
+        "nomor_polisi": "ASW1-PB.ASUWA-BG.ASUWA1",
         "trnp_code": "9"
     },
     {
@@ -49754,15 +49781,6 @@
     {
         "id": 1,
         "loct": "Siawung Terminal",
-        "trnp": "9 - V ES S E L",
-        "tipe": "BULK",
-        "trucktype": null,
-        "nomor_polisi": "RYO1-RYOKO8,MV.",
-        "trnp_code": "9"
-    },
-    {
-        "id": 1,
-        "loct": "Siawung Terminal",
         "trnp": "OR - Barakah Niaga Semen, PT",
         "tipe": "BAG",
         "trucktype": "Portal",
@@ -50505,15 +50523,6 @@
         "tipe": "BAG",
         "trucktype": null,
         "nomor_polisi": "XQ47-MV.TSVANCOUVER",
-        "trnp_code": "9"
-    },
-    {
-        "id": 1,
-        "loct": "TANJUNG PRIOK",
-        "trnp": "9 - V ES S E L",
-        "tipe": "BULK",
-        "trucktype": null,
-        "nomor_polisi": "ASW1-PB.ASUWA-BG.ASUWA1",
         "trnp_code": "9"
     },
     {
@@ -53989,5 +53998,14 @@
         "trucktype": "Tronton",
         "nomor_polisi": "W9075UJ",
         "trnp_code": "MN"
+    },
+    {
+        "id": 1,
+        "loct": "Wonogiri 2 Warehouse",
+        "trnp": "QT - INTITRANS MAKMUR KENCANA, P.T.",
+        "tipe": "BAG",
+        "trucktype": "Portal",
+        "nomor_polisi": "F9723FC",
+        "trnp_code": "QT"
     }
 ]
