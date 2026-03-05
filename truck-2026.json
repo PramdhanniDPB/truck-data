@@ -77776,5 +77776,104 @@
         "trucktype": "Bag",
         "nomor_polisi": "F8211KN",
         "trnp_code": "CA"
+    },
+    {
+        "id": 1,
+        "loct": "Wonogiri 2 Warehouse",
+        "trnp": "QT - INTITRANS MAKMUR KENCANA, P.T.",
+        "tipe": "BAG",
+        "trucktype": "Bag",
+        "nomor_polisi": "AD8104EG",
+        "trnp_code": "QT"
+    },
+    {
+        "id": 1,
+        "loct": "Wonogiri 2 Warehouse",
+        "trnp": "QT - INTITRANS MAKMUR KENCANA, P.T.",
+        "tipe": "BAG",
+        "trucktype": "Bag",
+        "nomor_polisi": "AD8140OG",
+        "trnp_code": "QT"
+    },
+    {
+        "id": 1,
+        "loct": "Wonogiri 2 Warehouse",
+        "trnp": "QT - INTITRANS MAKMUR KENCANA, P.T.",
+        "tipe": "BAG",
+        "trucktype": "Bag",
+        "nomor_polisi": "AD9832DG",
+        "trnp_code": "QT"
+    },
+    {
+        "id": 1,
+        "loct": "Wonogiri 2 Warehouse",
+        "trnp": "QT - INTITRANS MAKMUR KENCANA, P.T.",
+        "tipe": "BAG",
+        "trucktype": "Bag",
+        "nomor_polisi": "F9540FC",
+        "trnp_code": "QT"
+    },
+    {
+        "id": 1,
+        "loct": "Wonogiri 2 Warehouse",
+        "trnp": "QT - INTITRANS MAKMUR KENCANA, P.T.",
+        "tipe": "BAG",
+        "trucktype": "Bag",
+        "nomor_polisi": "F9723FC",
+        "trnp_code": "QT"
+    },
+    {
+        "id": 1,
+        "loct": "Wonogiri 2 Warehouse",
+        "trnp": "QT - INTITRANS MAKMUR KENCANA, P.T.",
+        "tipe": "BAG",
+        "trucktype": "Bag",
+        "nomor_polisi": "F9107FM",
+        "trnp_code": "QT"
+    },
+    {
+        "id": 1,
+        "loct": "Wonogiri 2 Warehouse",
+        "trnp": "QT - INTITRANS MAKMUR KENCANA, P.T.",
+        "tipe": "BAG",
+        "trucktype": "Bag",
+        "nomor_polisi": "F9157FD",
+        "trnp_code": "QT"
+    },
+    {
+        "id": 1,
+        "loct": "Wonogiri 2 Warehouse",
+        "trnp": "QT - INTITRANS MAKMUR KENCANA, P.T.",
+        "tipe": "BAG",
+        "trucktype": "Bag",
+        "nomor_polisi": "F9323FD",
+        "trnp_code": "QT"
+    },
+    {
+        "id": 1,
+        "loct": "Wonogiri 2 Warehouse",
+        "trnp": "QT - INTITRANS MAKMUR KENCANA, P.T.",
+        "tipe": "BAG",
+        "trucktype": "Bag",
+        "nomor_polisi": "F9333F",
+        "trnp_code": "QT"
+    },
+    {
+        "id": 1,
+        "loct": "Wonogiri 2 Warehouse",
+        "trnp": "QT - INTITRANS MAKMUR KENCANA, P.T.",
+        "tipe": "BAG",
+        "trucktype": "Bag",
+        "nomor_polisi": "F9526FC",
+        "trnp_code": "QT"
+    },
+    {
+        "id": 1,
+        "loct": "Wonogiri 2 Warehouse",
+        "trnp": "QT - INTITRANS MAKMUR KENCANA, P.T.",
+        "tipe": "BAG",
+        "trucktype": "Bag",
+        "nomor_polisi": "F9880FD",
+        "trnp_code": "QT"
     }
 ]
