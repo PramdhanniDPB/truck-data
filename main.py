@@ -1,17 +1,19 @@
 import requests
 import json
 import re
+import datetime
 
 
+# Function to fetch data from URL
 def fetch_url(url):
     response = requests.get(url)
     response.raise_for_status()  # Raise an error for bad responses
     return response.json()
 
-
+# Main execution
 if __name__ == "__main__":
-    year = 2025
-    url = "http://10.10.206.205/data/api/nopolactive?year={}".format(year)
+    year = 2026
+    url = "http://10.10.206.205/api_truck.php?year={}".format(year)
     data = fetch_url(url)
 
     # Process data
@@ -26,22 +28,22 @@ if __name__ == "__main__":
                 if item.get('trnp'):
                     # Extract letters before space or -
                     item['trnp_code'] = re.split(r'[\s-]', item['trnp'])[0]
-                
+
                 # Check for duplicates in nomor_polisi
                 nopol = item.get('nomor_polisi')
                 if nopol:
                     # Remove spaces
                     cleaned_nopol = str(nopol).replace(' ', '')
                     item['nomor_polisi'] = cleaned_nopol
-                    
+
                     if cleaned_nopol in seen_nopol:
                         duplicates.append(cleaned_nopol)
                         continue # Skip adding this item to unique_data
                     else:
                         seen_nopol.add(cleaned_nopol)
-                
+
                 unique_data.append(item)
-    
+
     data = unique_data
 
     if duplicates:
