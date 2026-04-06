@@ -20,7 +20,9 @@ if __name__ == "__main__":
     seen_nopol = set()
     duplicates = []
     unique_data = []
+    ah_nopol = set()  # Track all nomor_polisi from AH code
 
+    # First pass: Extract trnp_code and collect AH nomor_polisi
     if isinstance(data, list):
         for item in data:
             if isinstance(item, dict):
@@ -28,7 +30,17 @@ if __name__ == "__main__":
                 if item.get('trnp'):
                     # Extract letters before space or -
                     item['trnp_code'] = re.split(r'[\s-]', item['trnp'])[0]
+                
+                # Collect all AH nomor_polisi
+                nopol = item.get('nomor_polisi')
+                if nopol and item.get('trnp_code') == 'AH':
+                    cleaned_nopol = str(nopol).replace(' ', '')
+                    ah_nopol.add(cleaned_nopol)
 
+    # Second pass: Filter and deduplicate, prioritizing AH over A
+    if isinstance(data, list):
+        for item in data:
+            if isinstance(item, dict):
                 # Check for duplicates in nomor_polisi
                 nopol = item.get('nomor_polisi')
                 if nopol:
@@ -36,6 +48,12 @@ if __name__ == "__main__":
                     cleaned_nopol = str(nopol).replace(' ', '')
                     item['nomor_polisi'] = cleaned_nopol
 
+                    # If this is code A and same nopol exists in AH, skip it
+                    if item.get('trnp_code') == 'A' and cleaned_nopol in ah_nopol:
+                        duplicates.append(cleaned_nopol)
+                        continue
+                    
+                    # Check for global duplicates
                     if cleaned_nopol in seen_nopol:
                         duplicates.append(cleaned_nopol)
                         continue # Skip adding this item to unique_data

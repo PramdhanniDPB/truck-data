@@ -23,15 +23,6 @@
         "trnp": "A - ANGGADA PERKASA, P.T.",
         "tipe": "MATERIAL",
         "trucktype": "Tronton",
-        "nomor_polisi": "B9074SU",
-        "trnp_code": "A"
-    },
-    {
-        "id": 1,
-        "loct": "1 - CITEUREUP",
-        "trnp": "A - ANGGADA PERKASA, P.T.",
-        "tipe": "MATERIAL",
-        "trucktype": "Tronton",
         "nomor_polisi": "B9075XQ",
         "trnp_code": "A"
     },
@@ -86,24 +77,6 @@
         "trnp": "A - ANGGADA PERKASA, P.T.",
         "tipe": "MATERIAL",
         "trucktype": "Tronton",
-        "nomor_polisi": "B9416WX",
-        "trnp_code": "A"
-    },
-    {
-        "id": 1,
-        "loct": "1 - CITEUREUP",
-        "trnp": "A - ANGGADA PERKASA, P.T.",
-        "tipe": "MATERIAL",
-        "trucktype": "Tronton",
-        "nomor_polisi": "B9418WX",
-        "trnp_code": "A"
-    },
-    {
-        "id": 1,
-        "loct": "1 - CITEUREUP",
-        "trnp": "A - ANGGADA PERKASA, P.T.",
-        "tipe": "MATERIAL",
-        "trucktype": "Tronton",
         "nomor_polisi": "B9421WX",
         "trnp_code": "A"
     },
@@ -114,15 +87,6 @@
         "tipe": "MATERIAL",
         "trucktype": "Tronton",
         "nomor_polisi": "B9428WX",
-        "trnp_code": "A"
-    },
-    {
-        "id": 1,
-        "loct": "1 - CITEUREUP",
-        "trnp": "A - ANGGADA PERKASA, P.T.",
-        "tipe": "MATERIAL",
-        "trucktype": "Tronton",
-        "nomor_polisi": "B9432WX",
         "trnp_code": "A"
     },
     {
@@ -177,42 +141,6 @@
         "tipe": "MATERIAL",
         "trucktype": "Tronton",
         "nomor_polisi": "B9914WX",
-        "trnp_code": "A"
-    },
-    {
-        "id": 1,
-        "loct": "1 - CITEUREUP",
-        "trnp": "A - ANGGADA PERKASA, P.T.",
-        "tipe": "MATERIAL",
-        "trucktype": "Tronton",
-        "nomor_polisi": "F9031FE",
-        "trnp_code": "A"
-    },
-    {
-        "id": 1,
-        "loct": "1 - CITEUREUP",
-        "trnp": "A - ANGGADA PERKASA, P.T.",
-        "tipe": "MATERIAL",
-        "trucktype": "Tronton",
-        "nomor_polisi": "F9032FE",
-        "trnp_code": "A"
-    },
-    {
-        "id": 1,
-        "loct": "1 - CITEUREUP",
-        "trnp": "A - ANGGADA PERKASA, P.T.",
-        "tipe": "MATERIAL",
-        "trucktype": "Tronton",
-        "nomor_polisi": "F9033FE",
-        "trnp_code": "A"
-    },
-    {
-        "id": 1,
-        "loct": "1 - CITEUREUP",
-        "trnp": "A - ANGGADA PERKASA, P.T.",
-        "tipe": "MATERIAL",
-        "trucktype": "Tronton",
-        "nomor_polisi": "F9034FE",
         "trnp_code": "A"
     },
     {
@@ -392,52 +320,7 @@
         "trnp": "A - ANGGADA PERKASA, P.T.",
         "tipe": "MATERIAL",
         "trucktype": "Tronton",
-        "nomor_polisi": "F9860FD",
-        "trnp_code": "A"
-    },
-    {
-        "id": 1,
-        "loct": "1 - CITEUREUP",
-        "trnp": "A - ANGGADA PERKASA, P.T.",
-        "tipe": "MATERIAL",
-        "trucktype": "Tronton",
-        "nomor_polisi": "F9861FD",
-        "trnp_code": "A"
-    },
-    {
-        "id": 1,
-        "loct": "1 - CITEUREUP",
-        "trnp": "A - ANGGADA PERKASA, P.T.",
-        "tipe": "MATERIAL",
-        "trucktype": "Tronton",
-        "nomor_polisi": "F9862FD",
-        "trnp_code": "A"
-    },
-    {
-        "id": 1,
-        "loct": "1 - CITEUREUP",
-        "trnp": "A - ANGGADA PERKASA, P.T.",
-        "tipe": "MATERIAL",
-        "trucktype": "Tronton",
         "nomor_polisi": "F9863FD",
-        "trnp_code": "A"
-    },
-    {
-        "id": 1,
-        "loct": "1 - CITEUREUP",
-        "trnp": "A - ANGGADA PERKASA, P.T.",
-        "tipe": "MATERIAL",
-        "trucktype": "Tronton",
-        "nomor_polisi": "F9865FD",
-        "trnp_code": "A"
-    },
-    {
-        "id": 1,
-        "loct": "1 - CITEUREUP",
-        "trnp": "A - ANGGADA PERKASA, P.T.",
-        "tipe": "MATERIAL",
-        "trucktype": "Tronton",
-        "nomor_polisi": "F9866FD",
         "trnp_code": "A"
     },
     {
@@ -455,7 +338,124 @@
         "trnp": "AH - TRIMITRA PERDANA, PT",
         "tipe": "MATERIAL",
         "trucktype": "Tronton",
+        "nomor_polisi": "B9074SU",
+        "trnp_code": "AH"
+    },
+    {
+        "id": 1,
+        "loct": "1 - CITEUREUP",
+        "trnp": "AH - TRIMITRA PERDANA, PT",
+        "tipe": "MATERIAL",
+        "trucktype": "Tronton",
+        "nomor_polisi": "B9416WX",
+        "trnp_code": "AH"
+    },
+    {
+        "id": 1,
+        "loct": "1 - CITEUREUP",
+        "trnp": "AH - TRIMITRA PERDANA, PT",
+        "tipe": "MATERIAL",
+        "trucktype": "Tronton",
+        "nomor_polisi": "B9418WX",
+        "trnp_code": "AH"
+    },
+    {
+        "id": 1,
+        "loct": "1 - CITEUREUP",
+        "trnp": "AH - TRIMITRA PERDANA, PT",
+        "tipe": "MATERIAL",
+        "trucktype": "Tronton",
+        "nomor_polisi": "B9432WX",
+        "trnp_code": "AH"
+    },
+    {
+        "id": 1,
+        "loct": "1 - CITEUREUP",
+        "trnp": "AH - TRIMITRA PERDANA, PT",
+        "tipe": "MATERIAL",
+        "trucktype": "Tronton",
         "nomor_polisi": "F9030FE",
+        "trnp_code": "AH"
+    },
+    {
+        "id": 1,
+        "loct": "1 - CITEUREUP",
+        "trnp": "AH - TRIMITRA PERDANA, PT",
+        "tipe": "MATERIAL",
+        "trucktype": "Tronton",
+        "nomor_polisi": "F9031FE",
+        "trnp_code": "AH"
+    },
+    {
+        "id": 1,
+        "loct": "1 - CITEUREUP",
+        "trnp": "AH - TRIMITRA PERDANA, PT",
+        "tipe": "MATERIAL",
+        "trucktype": "Tronton",
+        "nomor_polisi": "F9032FE",
+        "trnp_code": "AH"
+    },
+    {
+        "id": 1,
+        "loct": "1 - CITEUREUP",
+        "trnp": "AH - TRIMITRA PERDANA, PT",
+        "tipe": "MATERIAL",
+        "trucktype": "Tronton",
+        "nomor_polisi": "F9033FE",
+        "trnp_code": "AH"
+    },
+    {
+        "id": 1,
+        "loct": "1 - CITEUREUP",
+        "trnp": "AH - TRIMITRA PERDANA, PT",
+        "tipe": "MATERIAL",
+        "trucktype": "Tronton",
+        "nomor_polisi": "F9034FE",
+        "trnp_code": "AH"
+    },
+    {
+        "id": 1,
+        "loct": "1 - CITEUREUP",
+        "trnp": "AH - TRIMITRA PERDANA, PT",
+        "tipe": "MATERIAL",
+        "trucktype": "Tronton",
+        "nomor_polisi": "F9860FD",
+        "trnp_code": "AH"
+    },
+    {
+        "id": 1,
+        "loct": "1 - CITEUREUP",
+        "trnp": "AH - TRIMITRA PERDANA, PT",
+        "tipe": "MATERIAL",
+        "trucktype": "Tronton",
+        "nomor_polisi": "F9861FD",
+        "trnp_code": "AH"
+    },
+    {
+        "id": 1,
+        "loct": "1 - CITEUREUP",
+        "trnp": "AH - TRIMITRA PERDANA, PT",
+        "tipe": "MATERIAL",
+        "trucktype": "Tronton",
+        "nomor_polisi": "F9862FD",
+        "trnp_code": "AH"
+    },
+    {
+        "id": 1,
+        "loct": "1 - CITEUREUP",
+        "trnp": "AH - TRIMITRA PERDANA, PT",
+        "tipe": "MATERIAL",
+        "trucktype": "Tronton",
+        "nomor_polisi": "F9865FD",
+        "trnp_code": "AH"
+    },
+    {
+        "id": 1,
+        "loct": "1 - CITEUREUP",
+        "trnp": "AH - TRIMITRA PERDANA, PT",
+        "tipe": "MATERIAL",
+        "trucktype": "Tronton",
+        "nomor_polisi": "F9866FD",
         "trnp_code": "AH"
     },
     {
