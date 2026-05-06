@@ -36,12 +36,101 @@
         "documentation": {}
     },
     {
+        "label": "Iterable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
         "label": "fetch_url",
         "kind": 2,
         "importPath": "main",
         "description": "main",
         "peekOfCode": "def fetch_url(url):\n    response = requests.get(url)\n    response.raise_for_status()  # Raise an error for bad responses\n    return response.json()\n# Main execution\nif __name__ == \"__main__\":\n    year = 2026\n    url = \"http://10.10.206.205/api_truck.php?year={}\".format(year)\n    data = fetch_url(url)\n    # Process data",
         "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "matches_loct",
+        "kind": 2,
+        "importPath": "main2",
+        "description": "main2",
+        "peekOfCode": "def matches_loct(loct_value: str, keywords: Iterable[str]) -> bool:\n\tif not loct_value:\n\t\treturn False\n\tloct_lower = loct_value.lower()\n\treturn any(keyword.lower() in loct_lower for keyword in keywords)\ndef main() -> None:\n\tresponse = requests.get(API_URL, timeout=30)\n\tresponse.raise_for_status()\n\tdata = response.json()\n\tif not isinstance(data, list):",
+        "detail": "main2",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "main2",
+        "description": "main2",
+        "peekOfCode": "def main() -> None:\n\tresponse = requests.get(API_URL, timeout=30)\n\tresponse.raise_for_status()\n\tdata = response.json()\n\tif not isinstance(data, list):\n\t\traise ValueError(\"Unexpected API response: expected a list of objects\")\n\tfiltered = [item for item in data if matches_loct(item.get(\"loct\", \"\"), KEYWORDS)]\n\twith open(OUTPUT_PATH, \"w\", encoding=\"utf-8\") as file_handle:\n\t\tjson.dump(filtered, file_handle, ensure_ascii=False, indent=4)\n\tprint(f\"Saved {len(filtered)} records to {OUTPUT_PATH}\")",
+        "detail": "main2",
+        "documentation": {}
+    },
+    {
+        "label": "API_URL",
+        "kind": 5,
+        "importPath": "main2",
+        "description": "main2",
+        "peekOfCode": "API_URL = \"http://10.10.206.205/api_truck.php?year=2026\"\nOUTPUT_PATH = \"truck-2026.json\"\n# Set keywords to match in the `loct` field (case-insensitive).\n# Example: [\"CITE\", \"BOGOR\"]\nKEYWORDS = [\"CITEUREUP\", \"CIREBON\", \"BOSOWA\", \"GROBOGAN\"]\ndef matches_loct(loct_value: str, keywords: Iterable[str]) -> bool:\n\tif not loct_value:\n\t\treturn False\n\tloct_lower = loct_value.lower()\n\treturn any(keyword.lower() in loct_lower for keyword in keywords)",
+        "detail": "main2",
+        "documentation": {}
+    },
+    {
+        "label": "OUTPUT_PATH",
+        "kind": 5,
+        "importPath": "main2",
+        "description": "main2",
+        "peekOfCode": "OUTPUT_PATH = \"truck-2026.json\"\n# Set keywords to match in the `loct` field (case-insensitive).\n# Example: [\"CITE\", \"BOGOR\"]\nKEYWORDS = [\"CITEUREUP\", \"CIREBON\", \"BOSOWA\", \"GROBOGAN\"]\ndef matches_loct(loct_value: str, keywords: Iterable[str]) -> bool:\n\tif not loct_value:\n\t\treturn False\n\tloct_lower = loct_value.lower()\n\treturn any(keyword.lower() in loct_lower for keyword in keywords)\ndef main() -> None:",
+        "detail": "main2",
+        "documentation": {}
+    },
+    {
+        "label": "KEYWORDS",
+        "kind": 5,
+        "importPath": "main2",
+        "description": "main2",
+        "peekOfCode": "KEYWORDS = [\"CITEUREUP\", \"CIREBON\", \"BOSOWA\", \"GROBOGAN\"]\ndef matches_loct(loct_value: str, keywords: Iterable[str]) -> bool:\n\tif not loct_value:\n\t\treturn False\n\tloct_lower = loct_value.lower()\n\treturn any(keyword.lower() in loct_lower for keyword in keywords)\ndef main() -> None:\n\tresponse = requests.get(API_URL, timeout=30)\n\tresponse.raise_for_status()\n\tdata = response.json()",
+        "detail": "main2",
+        "documentation": {}
+    },
+    {
+        "label": "\tloct_lower",
+        "kind": 5,
+        "importPath": "main2",
+        "description": "main2",
+        "peekOfCode": "\tloct_lower = loct_value.lower()\n\treturn any(keyword.lower() in loct_lower for keyword in keywords)\ndef main() -> None:\n\tresponse = requests.get(API_URL, timeout=30)\n\tresponse.raise_for_status()\n\tdata = response.json()\n\tif not isinstance(data, list):\n\t\traise ValueError(\"Unexpected API response: expected a list of objects\")\n\tfiltered = [item for item in data if matches_loct(item.get(\"loct\", \"\"), KEYWORDS)]\n\twith open(OUTPUT_PATH, \"w\", encoding=\"utf-8\") as file_handle:",
+        "detail": "main2",
+        "documentation": {}
+    },
+    {
+        "label": "\tresponse",
+        "kind": 5,
+        "importPath": "main2",
+        "description": "main2",
+        "peekOfCode": "\tresponse = requests.get(API_URL, timeout=30)\n\tresponse.raise_for_status()\n\tdata = response.json()\n\tif not isinstance(data, list):\n\t\traise ValueError(\"Unexpected API response: expected a list of objects\")\n\tfiltered = [item for item in data if matches_loct(item.get(\"loct\", \"\"), KEYWORDS)]\n\twith open(OUTPUT_PATH, \"w\", encoding=\"utf-8\") as file_handle:\n\t\tjson.dump(filtered, file_handle, ensure_ascii=False, indent=4)\n\tprint(f\"Saved {len(filtered)} records to {OUTPUT_PATH}\")\nif __name__ == \"__main__\":",
+        "detail": "main2",
+        "documentation": {}
+    },
+    {
+        "label": "\tdata",
+        "kind": 5,
+        "importPath": "main2",
+        "description": "main2",
+        "peekOfCode": "\tdata = response.json()\n\tif not isinstance(data, list):\n\t\traise ValueError(\"Unexpected API response: expected a list of objects\")\n\tfiltered = [item for item in data if matches_loct(item.get(\"loct\", \"\"), KEYWORDS)]\n\twith open(OUTPUT_PATH, \"w\", encoding=\"utf-8\") as file_handle:\n\t\tjson.dump(filtered, file_handle, ensure_ascii=False, indent=4)\n\tprint(f\"Saved {len(filtered)} records to {OUTPUT_PATH}\")\nif __name__ == \"__main__\":\n\tif not KEYWORDS:\n\t\traise SystemExit(\"Set KEYWORDS before running.\")",
+        "detail": "main2",
+        "documentation": {}
+    },
+    {
+        "label": "\tfiltered",
+        "kind": 5,
+        "importPath": "main2",
+        "description": "main2",
+        "peekOfCode": "\tfiltered = [item for item in data if matches_loct(item.get(\"loct\", \"\"), KEYWORDS)]\n\twith open(OUTPUT_PATH, \"w\", encoding=\"utf-8\") as file_handle:\n\t\tjson.dump(filtered, file_handle, ensure_ascii=False, indent=4)\n\tprint(f\"Saved {len(filtered)} records to {OUTPUT_PATH}\")\nif __name__ == \"__main__\":\n\tif not KEYWORDS:\n\t\traise SystemExit(\"Set KEYWORDS before running.\")\n\tmain()",
+        "detail": "main2",
         "documentation": {}
     }
 ]
