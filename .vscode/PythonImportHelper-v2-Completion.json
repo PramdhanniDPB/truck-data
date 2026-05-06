@@ -66,7 +66,7 @@
         "kind": 2,
         "importPath": "main2",
         "description": "main2",
-        "peekOfCode": "def main() -> None:\n\tresponse = requests.get(API_URL, timeout=30)\n\tresponse.raise_for_status()\n\tdata = response.json()\n\tif not isinstance(data, list):\n\t\traise ValueError(\"Unexpected API response: expected a list of objects\")\n\tfiltered = [item for item in data if matches_loct(item.get(\"loct\", \"\"), KEYWORDS)]\n\twith open(OUTPUT_PATH, \"w\", encoding=\"utf-8\") as file_handle:\n\t\tjson.dump(filtered, file_handle, ensure_ascii=False, indent=4)\n\tprint(f\"Saved {len(filtered)} records to {OUTPUT_PATH}\")",
+        "peekOfCode": "def main() -> None:\n\tresponse = requests.get(API_URL, timeout=30)\n\tresponse.raise_for_status()\n\tdata = response.json()\n\tif not isinstance(data, list):\n\t\traise ValueError(\"Unexpected API response: expected a list of objects\")\n\tfor item in data:\n\t\ttrnp_value = item.get(\"trnp\", \"\")\n\t\tif trnp_value:\n\t\t\t# Extract letters before space or '-'.",
         "detail": "main2",
         "documentation": {}
     },
@@ -102,7 +102,7 @@
         "kind": 5,
         "importPath": "main2",
         "description": "main2",
-        "peekOfCode": "\tloct_lower = loct_value.lower()\n\treturn any(keyword.lower() in loct_lower for keyword in keywords)\ndef main() -> None:\n\tresponse = requests.get(API_URL, timeout=30)\n\tresponse.raise_for_status()\n\tdata = response.json()\n\tif not isinstance(data, list):\n\t\traise ValueError(\"Unexpected API response: expected a list of objects\")\n\tfiltered = [item for item in data if matches_loct(item.get(\"loct\", \"\"), KEYWORDS)]\n\twith open(OUTPUT_PATH, \"w\", encoding=\"utf-8\") as file_handle:",
+        "peekOfCode": "\tloct_lower = loct_value.lower()\n\treturn any(keyword.lower() in loct_lower for keyword in keywords)\ndef main() -> None:\n\tresponse = requests.get(API_URL, timeout=30)\n\tresponse.raise_for_status()\n\tdata = response.json()\n\tif not isinstance(data, list):\n\t\traise ValueError(\"Unexpected API response: expected a list of objects\")\n\tfor item in data:\n\t\ttrnp_value = item.get(\"trnp\", \"\")",
         "detail": "main2",
         "documentation": {}
     },
@@ -111,7 +111,7 @@
         "kind": 5,
         "importPath": "main2",
         "description": "main2",
-        "peekOfCode": "\tresponse = requests.get(API_URL, timeout=30)\n\tresponse.raise_for_status()\n\tdata = response.json()\n\tif not isinstance(data, list):\n\t\traise ValueError(\"Unexpected API response: expected a list of objects\")\n\tfiltered = [item for item in data if matches_loct(item.get(\"loct\", \"\"), KEYWORDS)]\n\twith open(OUTPUT_PATH, \"w\", encoding=\"utf-8\") as file_handle:\n\t\tjson.dump(filtered, file_handle, ensure_ascii=False, indent=4)\n\tprint(f\"Saved {len(filtered)} records to {OUTPUT_PATH}\")\nif __name__ == \"__main__\":",
+        "peekOfCode": "\tresponse = requests.get(API_URL, timeout=30)\n\tresponse.raise_for_status()\n\tdata = response.json()\n\tif not isinstance(data, list):\n\t\traise ValueError(\"Unexpected API response: expected a list of objects\")\n\tfor item in data:\n\t\ttrnp_value = item.get(\"trnp\", \"\")\n\t\tif trnp_value:\n\t\t\t# Extract letters before space or '-'.\n\t\t\titem[\"trnp_code\"] = re.split(r\"[\\s-]\", trnp_value)[0]",
         "detail": "main2",
         "documentation": {}
     },
@@ -120,7 +120,25 @@
         "kind": 5,
         "importPath": "main2",
         "description": "main2",
-        "peekOfCode": "\tdata = response.json()\n\tif not isinstance(data, list):\n\t\traise ValueError(\"Unexpected API response: expected a list of objects\")\n\tfiltered = [item for item in data if matches_loct(item.get(\"loct\", \"\"), KEYWORDS)]\n\twith open(OUTPUT_PATH, \"w\", encoding=\"utf-8\") as file_handle:\n\t\tjson.dump(filtered, file_handle, ensure_ascii=False, indent=4)\n\tprint(f\"Saved {len(filtered)} records to {OUTPUT_PATH}\")\nif __name__ == \"__main__\":\n\tif not KEYWORDS:\n\t\traise SystemExit(\"Set KEYWORDS before running.\")",
+        "peekOfCode": "\tdata = response.json()\n\tif not isinstance(data, list):\n\t\traise ValueError(\"Unexpected API response: expected a list of objects\")\n\tfor item in data:\n\t\ttrnp_value = item.get(\"trnp\", \"\")\n\t\tif trnp_value:\n\t\t\t# Extract letters before space or '-'.\n\t\t\titem[\"trnp_code\"] = re.split(r\"[\\s-]\", trnp_value)[0]\n\tfiltered = [item for item in data if matches_loct(item.get(\"loct\", \"\"), KEYWORDS)]\n\twith open(OUTPUT_PATH, \"w\", encoding=\"utf-8\") as file_handle:",
+        "detail": "main2",
+        "documentation": {}
+    },
+    {
+        "label": "\t\ttrnp_value",
+        "kind": 5,
+        "importPath": "main2",
+        "description": "main2",
+        "peekOfCode": "\t\ttrnp_value = item.get(\"trnp\", \"\")\n\t\tif trnp_value:\n\t\t\t# Extract letters before space or '-'.\n\t\t\titem[\"trnp_code\"] = re.split(r\"[\\s-]\", trnp_value)[0]\n\tfiltered = [item for item in data if matches_loct(item.get(\"loct\", \"\"), KEYWORDS)]\n\twith open(OUTPUT_PATH, \"w\", encoding=\"utf-8\") as file_handle:\n\t\tjson.dump(filtered, file_handle, ensure_ascii=False, indent=4)\n\tprint(f\"Saved {len(filtered)} records to {OUTPUT_PATH}\")\nif __name__ == \"__main__\":\n\tif not KEYWORDS:",
+        "detail": "main2",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\titem[\"trnp_code\"]",
+        "kind": 5,
+        "importPath": "main2",
+        "description": "main2",
+        "peekOfCode": "\t\t\titem[\"trnp_code\"] = re.split(r\"[\\s-]\", trnp_value)[0]\n\tfiltered = [item for item in data if matches_loct(item.get(\"loct\", \"\"), KEYWORDS)]\n\twith open(OUTPUT_PATH, \"w\", encoding=\"utf-8\") as file_handle:\n\t\tjson.dump(filtered, file_handle, ensure_ascii=False, indent=4)\n\tprint(f\"Saved {len(filtered)} records to {OUTPUT_PATH}\")\nif __name__ == \"__main__\":\n\tif not KEYWORDS:\n\t\traise SystemExit(\"Set KEYWORDS before running.\")\n\tmain()",
         "detail": "main2",
         "documentation": {}
     },

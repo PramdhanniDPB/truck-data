@@ -1,4 +1,5 @@
 import json
+import re
 from typing import Iterable
 
 import requests
@@ -26,6 +27,12 @@ def main() -> None:
 
 	if not isinstance(data, list):
 		raise ValueError("Unexpected API response: expected a list of objects")
+
+	for item in data:
+		trnp_value = item.get("trnp", "")
+		if trnp_value:
+			# Extract letters before space or '-'.
+			item["trnp_code"] = re.split(r"[\s-]", trnp_value)[0]
 
 	filtered = [item for item in data if matches_loct(item.get("loct", ""), KEYWORDS)]
 
