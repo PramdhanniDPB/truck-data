@@ -5,13 +5,12 @@ from typing import Iterable
 import requests
 
 
-API_URL = "http://10.10.206.205/api_truck.php?year=2026"
+API_URL = "http://10.10.206.205/api_truck.php?start_month=09-2026&end_month=09-2026"
 OUTPUT_PATH = "truck-2026.json"
 
 # Set keywords to match in the `loct` field (case-insensitive).
 # Example: ["CITE", "BOGOR"]
-KEYWORDS = ["CITEUREUP", "CIREBON", "BOSOWA", "GROBOGAN"]
-
+KEYWORDS = ["CITEUREUP", "CIREBON", "BOSOWA", "GROBOGAN","CONTAINER YARD", "PATI", "BRAMBANAN", "BREBES", "TANJUNG PRIOK", "SUNDA KELAPA", "KRETEK", "GARUT", "MAGELANG", "CIMAREME", "JATIWANGI", "PEMALANG", "SUKABUMI", "PANDEGLANG", "SERANG", "BSD Cisauk", "TARJUN", "KUALA TANJUNG", "LOMBOK", "TERMINAL BALI", "PALEMBANG", "PONTIANAK", "SAMARINDA", "KALIANAK", "TERMINAL KUPANG", "LAMPUNG"]
 
 def matches_loct(loct_value: str, keywords: Iterable[str]) -> bool:
 	if not loct_value:

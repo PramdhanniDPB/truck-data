@@ -5,7 +5,7 @@ if exist env\Scripts\activate (
     call env\Scripts\activate
 )
 @REM Run the main Python script
-python main.py
+python main2.py
 
 @REM Deactivate virtual environment if it was activated
 if exist env\Scripts\activate (
