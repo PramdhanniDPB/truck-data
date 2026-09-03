@@ -5,7 +5,7 @@ from typing import Iterable
 import requests
 
 
-API_URL = "http://10.10.206.205/api_truck.php?start_month=09-2026&end_month=09-2026"
+API_URL = "http://10.10.206.205/api_truck.php?start_month=08-2026&end_month=08-2026"
 OUTPUT_PATH = "truck-2026.json"
 
 # Set keywords to match in the `loct` field (case-insensitive).
