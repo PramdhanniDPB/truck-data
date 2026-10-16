@@ -22205,6 +22205,16 @@
         "trnp": "AH - TRIMITRA PERDANA, PT",
         "tipe": "MATERIAL",
         "trucktype": "DT",
+        "nomor_polisi": "B9414WX",
+        "tahun": 2026,
+        "trnp_code": "AH"
+    },
+    {
+        "id": 1,
+        "loct": "CITEUREUP",
+        "trnp": "AH - TRIMITRA PERDANA, PT",
+        "tipe": "MATERIAL",
+        "trucktype": "DT",
         "nomor_polisi": "B9416WX",
         "tahun": 2026,
         "trnp_code": "AH"
@@ -29475,6 +29485,36 @@
         "trnp": "CU - Berkat Alam Cemerlang, PT",
         "tipe": "MATERIAL",
         "trucktype": "DT",
+        "nomor_polisi": "F9743FI",
+        "tahun": 2026,
+        "trnp_code": "CU"
+    },
+    {
+        "id": 1,
+        "loct": "CITEUREUP",
+        "trnp": "CU - Berkat Alam Cemerlang, PT",
+        "tipe": "MATERIAL",
+        "trucktype": "DT",
+        "nomor_polisi": "F9744FI",
+        "tahun": 2026,
+        "trnp_code": "CU"
+    },
+    {
+        "id": 1,
+        "loct": "CITEUREUP",
+        "trnp": "CU - Berkat Alam Cemerlang, PT",
+        "tipe": "MATERIAL",
+        "trucktype": "DT",
+        "nomor_polisi": "F9745FI",
+        "tahun": 2026,
+        "trnp_code": "CU"
+    },
+    {
+        "id": 1,
+        "loct": "CITEUREUP",
+        "trnp": "CU - Berkat Alam Cemerlang, PT",
+        "tipe": "MATERIAL",
+        "trucktype": "DT",
         "nomor_polisi": "F9746FI",
         "tahun": 2026,
         "trnp_code": "CU"
@@ -33336,6 +33376,26 @@
         "tipe": "BULK",
         "trucktype": "Bulk",
         "nomor_polisi": "F9875FE",
+        "tahun": 2026,
+        "trnp_code": "E"
+    },
+    {
+        "id": 1,
+        "loct": "CITEUREUP",
+        "trnp": "E - SUMBER KENCANA, C.V.",
+        "tipe": "MATERIAL",
+        "trucktype": "DT",
+        "nomor_polisi": "F9847FE",
+        "tahun": 2026,
+        "trnp_code": "E"
+    },
+    {
+        "id": 1,
+        "loct": "CITEUREUP",
+        "trnp": "E - SUMBER KENCANA, C.V.",
+        "tipe": "MATERIAL",
+        "trucktype": "DT",
+        "nomor_polisi": "F9848FE",
         "tahun": 2026,
         "trnp_code": "E"
     },
@@ -37772,6 +37832,26 @@
     {
         "id": 1,
         "loct": "CITEUREUP",
+        "trnp": "QG - KARYA TUBAN CEMERLANG (KTC), P.T.",
+        "tipe": "MATERIAL",
+        "trucktype": "DT",
+        "nomor_polisi": "B9230BIV",
+        "tahun": 2026,
+        "trnp_code": "QG"
+    },
+    {
+        "id": 1,
+        "loct": "CITEUREUP",
+        "trnp": "QG - KARYA TUBAN CEMERLANG (KTC), P.T.",
+        "tipe": "MATERIAL",
+        "trucktype": "DT",
+        "nomor_polisi": "B9240BIV",
+        "tahun": 2026,
+        "trnp_code": "QG"
+    },
+    {
+        "id": 1,
+        "loct": "CITEUREUP",
         "trnp": "QI - TRIJAYA MANDIRI SELARAS, PT.",
         "tipe": "BAG",
         "trucktype": "Bag",
@@ -39405,6 +39485,16 @@
         "trnp": "RP - RODA PEMBINA NUSANTARA, P.T.",
         "tipe": "MATERIAL",
         "trucktype": "DT",
+        "nomor_polisi": "B9178UVW",
+        "tahun": 2026,
+        "trnp_code": "RP"
+    },
+    {
+        "id": 1,
+        "loct": "CITEUREUP",
+        "trnp": "RP - RODA PEMBINA NUSANTARA, P.T.",
+        "tipe": "MATERIAL",
+        "trucktype": "DT",
         "nomor_polisi": "B9179UVW",
         "tahun": 2026,
         "trnp_code": "RP"
@@ -39675,6 +39765,16 @@
         "trnp": "RP - RODA PEMBINA NUSANTARA, P.T.",
         "tipe": "MATERIAL",
         "trucktype": "DT",
+        "nomor_polisi": "B9480UVZ",
+        "tahun": 2026,
+        "trnp_code": "RP"
+    },
+    {
+        "id": 1,
+        "loct": "CITEUREUP",
+        "trnp": "RP - RODA PEMBINA NUSANTARA, P.T.",
+        "tipe": "MATERIAL",
+        "trucktype": "DT",
         "nomor_polisi": "B9508UIR",
         "tahun": 2026,
         "trnp_code": "RP"
@@ -39826,6 +39926,16 @@
         "tipe": "MATERIAL",
         "trucktype": "DT",
         "nomor_polisi": "B9519UIR",
+        "tahun": 2026,
+        "trnp_code": "RP"
+    },
+    {
+        "id": 1,
+        "loct": "CITEUREUP",
+        "trnp": "RP - RODA PEMBINA NUSANTARA, P.T.",
+        "tipe": "MATERIAL",
+        "trucktype": "DT",
+        "nomor_polisi": "B9541UVZ",
         "tahun": 2026,
         "trnp_code": "RP"
     },
@@ -40058,6 +40168,16 @@
         "nomor_polisi": "B9965UVZ",
         "tahun": 2026,
         "trnp_code": "RP"
+    },
+    {
+        "id": 1,
+        "loct": "CITEUREUP",
+        "trnp": "S4 - Makara Mulia, PT",
+        "tipe": "MATERIAL",
+        "trucktype": "DT",
+        "nomor_polisi": "B9667PYY",
+        "tahun": 2026,
+        "trnp_code": "S4"
     },
     {
         "id": 1,
