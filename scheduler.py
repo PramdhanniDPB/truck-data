@@ -6,12 +6,8 @@ from datetime import datetime
 # CONFIGURATION
 # =========================
 
-SCHEDULE = [
-    "08:00",
-    "09:19",
-    "12:00",
-    "17:00",
-]
+# Jalan setiap jam: 00:00, 01:00, 02:00, ..., 23:00
+SCHEDULE = [f"{hour:02d}:00" for hour in range(24)]
 
 COMMAND = ".\\flow.bat"
 
@@ -55,13 +51,13 @@ def scheduler():
         now = datetime.now()
         current_time = now.strftime("%H:%M")
 
-        # Reset setiap hari
-        if current_time == "00:00":
+        # Reset daftar eksekusi saat berganti hari
+        if now.hour == 0 and now.minute == 0:
             executed_today.clear()
 
         if current_time in SCHEDULE and current_time not in executed_today:
-            run_command()
             executed_today.add(current_time)
+            run_command()
 
         time.sleep(1)
 
