@@ -29252,6 +29252,16 @@
     {
         "id": 1,
         "loct": "CITEUREUP",
+        "trnp": "CR - Andalan Nusa Pratama, PT",
+        "tipe": "MATERIAL",
+        "trucktype": "DT",
+        "nomor_polisi": "B9395KYV",
+        "tahun": 2026,
+        "trnp_code": "CR"
+    },
+    {
+        "id": 1,
+        "loct": "CITEUREUP",
         "trnp": "CU - Berkat Alam Cemerlang, PT",
         "tipe": "MATERIAL",
         "trucktype": "DT",
