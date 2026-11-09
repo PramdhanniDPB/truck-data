@@ -23285,6 +23285,16 @@
         "trnp": "AH - TRIMITRA PERDANA, PT",
         "tipe": "MATERIAL",
         "trucktype": "DT",
+        "nomor_polisi": "B9910WX",
+        "tahun": 2026,
+        "trnp_code": "AH"
+    },
+    {
+        "id": 1,
+        "loct": "CITEUREUP",
+        "trnp": "AH - TRIMITRA PERDANA, PT",
+        "tipe": "MATERIAL",
+        "trucktype": "DT",
         "nomor_polisi": "B9913WX",
         "tahun": 2026,
         "trnp_code": "AH"
@@ -30345,7 +30355,37 @@
         "trnp": "CR - Andalan Nusa Pratama, PT",
         "tipe": "MATERIAL",
         "trucktype": "DT",
+        "nomor_polisi": "B9066YU",
+        "tahun": 2026,
+        "trnp_code": "CR"
+    },
+    {
+        "id": 1,
+        "loct": "CITEUREUP",
+        "trnp": "CR - Andalan Nusa Pratama, PT",
+        "tipe": "MATERIAL",
+        "trucktype": "DT",
+        "nomor_polisi": "B9175YM",
+        "tahun": 2026,
+        "trnp_code": "CR"
+    },
+    {
+        "id": 1,
+        "loct": "CITEUREUP",
+        "trnp": "CR - Andalan Nusa Pratama, PT",
+        "tipe": "MATERIAL",
+        "trucktype": "DT",
         "nomor_polisi": "B9395KYV",
+        "tahun": 2026,
+        "trnp_code": "CR"
+    },
+    {
+        "id": 1,
+        "loct": "CITEUREUP",
+        "trnp": "CR - Andalan Nusa Pratama, PT",
+        "tipe": "MATERIAL",
+        "trucktype": "DT",
+        "nomor_polisi": "B9397KYV",
         "tahun": 2026,
         "trnp_code": "CR"
     },
@@ -41028,6 +41068,16 @@
         "nomor_polisi": "B9965UVZ",
         "tahun": 2026,
         "trnp_code": "RP"
+    },
+    {
+        "id": 1,
+        "loct": "CITEUREUP",
+        "trnp": "S4 - Makara Mulia, PT",
+        "tipe": "MATERIAL",
+        "trucktype": "DT",
+        "nomor_polisi": "B9007PYX",
+        "tahun": 2026,
+        "trnp_code": "S4"
     },
     {
         "id": 1,
